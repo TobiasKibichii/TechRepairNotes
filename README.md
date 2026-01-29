@@ -32,8 +32,10 @@
 
 <p><strong>🖼️ Screenshots</strong></p>
 
-   <p>HomePage </p>
-  <img src="screenshots/Screenshot (301).png" alt="Home Page" title ='Home Page' style="width:800px; " />
+   <p>Landing Page </p>
+  <img src="screenshots/Screenshot (310).png" alt="Landing Page" title ='Landing Page' style="width:800px; " />
+   <p>Home Page </p>
+  <img src="screenshots/Screenshot (309).png" alt="Home Page" title ='Home Page' style="width:800px; " />
    <p>Sample Repair Request</p>
   <img src="screenshots/Screenshot (308).png" alt="Sample Repair Request" title ='Sample Repair Request' style="width:800px; " />
    <p>Repair Requests </p>
